@@ -1,6 +1,6 @@
 # Propeye_Assignment
 <h1>Job Search using Puppeteer</h1>
-    <p>This is a Node.js project that utilizes Puppeteer to scrape job listings from a website based on a given search query. The search results are stored in a JSON file and also logged to the console.</p>
+    <p>This is a Node.js project that utilizes Puppeteer to scrape job listings from a Foundit(www.foundit.in)website based on a given search query. The search results are stored in a JSON file and also logged to the console.</p>
     <h2>Installation</h2>
 <p>To run this project, you will need to have Node.js installed on your machine. You can download it from the official website <a href="https://nodejs.org/en/download/">here</a>.</p>
 
